@@ -1,1 +1,20 @@
-body{width: 100%;}
+body{
+	height: 100%;
+	width: 100%;
+}
+
+#fondo{
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background-color: blue;
+	z-index: -1;
+
+}
+
+#logo{
+	position: relative;
+	background-color: pink;
+	border-radius: 50px;
+	border-style: solid;
+}
