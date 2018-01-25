@@ -4,26 +4,24 @@
     
     <question id="text_01">
 		<type>text</type>
-		<title>¿Que número llevaba Michael Jordan?</title>
+		<title>¿Que número llevaba Michael Jordan? </title>
 		<answer>23</answer>
     </question>
-
     <question id="text_02">
     	<type>text</type>
     	<title>¿Cuantos anillos de la NBA tienen los Boston Celtics?</title>
     	<answer>17</answer>
     </question>
-    
-    <question id="select_01">
+   <question id="select_01">
 		<type>select</type>
-		<title>¿Que jugador ha anotado más puntos durante su carrera?</title>
+		<title>¿Que jugador ha anotado más puntos durante su carrera?
+		</title>
 		<option>LeBron James</option>
 		<option>Michael Jordan</option>
 		<option>Kareem Abdul-Jabbar</option>
-	    	<option>Kobe Bryant</option>
+	    <option>Kobe Bryant</option>
 		<answer>2</answer>
     </question>
-    
     <question id="select_02">
 		<type>select</type>
 		<title>¿Que entrenador ha consegudo mas victorias?</title>
@@ -32,7 +30,6 @@
 		<option>Erik Spoelstra</option>
 		<answer>0</answer>
     </question>
-
     <question id="selectMultiple_01">
 		<type>selectMultiple</type>
 		<title>¿Que equipos no tienen ningun anillo?</title>
@@ -42,7 +39,6 @@
 		<answer>1</answer>
 		<answer>2</answer> 
     </question>
-    
     <question id="selectMultiple_02">
 		<type>selectMultiple</type>
 		<title>¿Que jugadores no juegan en la seleccion de Estados Unidos?</title>
@@ -53,7 +49,6 @@
 		<answer>0</answer>
 		<answer>1</answer>
     </question>
-
     <question id="checkbox_01">
 		<type>checkbox</type>
 		<title>¿Marca el equipo que no existe actualmente?</title>
@@ -64,7 +59,6 @@
 		<answer>2</answer>
 		<answer>3</answer>
     </question>
-	
     <question id="checkbox_02">
 		<type>checkbox</type>
 		<title>¿En que dos equipos ha jugado Michael Jordan?</title>
@@ -75,7 +69,6 @@
 		<answer>0</answer>
 		<answer>2</answer>
     </question>
-
     <question id="radio_01">
 		<type>radio</type>
 		<title>¿Cúal es el pabellon de los Miami Heat?</title>
@@ -84,7 +77,6 @@
 		<option>Target Center</option>
 		<answer>0</answer> 
     </question>
-
     <question id="radio_02">
 		<type>select</type>
 		<title>¿Quien tiene el mayor numero de triples anotados?</title>
@@ -93,5 +85,4 @@
 		<option>Ray Allen 20 triples</option>
 		<answer>1</answer>
     </question>
-
 </questions>
