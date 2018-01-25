@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!DOCTYPE questions>
-    
+
+<questions>
+	
     <question id="text_01">
 		<type>text</type>
 		<title>¿Que número llevaba Michael Jordan? </title>
