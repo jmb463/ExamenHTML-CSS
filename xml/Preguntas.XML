@@ -6,17 +6,17 @@
 	
     <question id="text_01">
 		<type>text</type>
-		<title>¿Que número llevaba Michael Jordan? </title>
+		<title>¿Qué número llevaba Michael Jordan? </title>
 		<answer>23</answer>
     </question>
     <question id="text_02">
     	<type>text</type>
-    	<title>¿Cuantos anillos de la NBA tienen los Boston Celtics?</title>
+    	<title>¿Cuántos anillos de la NBA tienen los Boston Celtics?</title>
     	<answer>17</answer>
     </question>
    <question id="select_01">
 		<type>select</type>
-		<title>¿Que jugador ha anotado más puntos durante su carrera?
+		<title>¿Qué jugador ha anotado más puntos durante su carrera?
 		</title>
 		<option>LeBron James</option>
 		<option>Michael Jordan</option>
@@ -26,7 +26,7 @@
     </question>
     <question id="select_02">
 		<type>select</type>
-		<title>¿Que entrenador ha consegudo mas victorias?</title>
+		<title>¿Qué entrenador ha conseguido más victorias?</title>
 		<option>Gregg Popovich</option>
 		<option>Larry Bird</option>
 		<option>Erik Spoelstra</option>
@@ -34,7 +34,7 @@
     </question>
     <question id="selectMultiple_01">
 		<type>selectMultiple</type>
-		<title>¿Que equipos no tienen ningun anillo?</title>
+		<title>¿Qué equipos no poseen ningún anillo?</title>
 		<option>Dallas Mavericks</option>
 		<option>Minnesota Timberwolves</option>
 		<option>Utah Jazz</option>
