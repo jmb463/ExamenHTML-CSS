@@ -34,7 +34,7 @@
     </question>
     <question id="selectMultiple_01">
 		<type>selectMultiple</type>
-		<title>¿Qué equipos no poseen ningún anillo?</title>
+		<title>¿Qué equipos no poseen ningún anillo?*</title>
 		<option>Dallas Mavericks</option>
 		<option>Minnesota Timberwolves</option>
 		<option>Utah Jazz</option>
@@ -43,7 +43,7 @@
     </question>
     <question id="selectMultiple_02">
 		<type>selectMultiple</type>
-		<title>¿Que jugadores no juegan en la seleccion de Estados Unidos?</title>
+		<title>¿Que jugadores no juegan en la seleccion de Estados Unidos?*</title>
 		<option>Karl Anthony-Towns</option>
 		<option>Ben Simmons</option>
 		<option>Dwyane Wade</option>
@@ -53,7 +53,7 @@
     </question>
     <question id="checkbox_01">
 		<type>checkbox</type>
-		<title>¿Marca el equipo que no existe actualmente?</title>
+		<title>Marca el equipo que no existe actualmente.</title>
 		<option>Los Angeles Clippers</option>
 		<option>Minnesota Timberwolves</option>
 		<option>Vancouver Grizzlies</option>
@@ -67,13 +67,13 @@
 		<option>Chicago Bulls</option>
 		<option>Los Angeles Lakers</option>
 		<option>Washington Wizards</option>
-		<option>Solo ha jugado en un equipo</option>
+		<option>Charlotte Bobcats</option>
 		<answer>0</answer>
 		<answer>2</answer>
     </question>
     <question id="radio_01">
 		<type>radio</type>
-		<title>¿Cúal es el pabellon de los Miami Heat?</title>
+		<title>¿Cúal es el pabellón de los Miami Heat?</title>
 		<option>American Airlines Arena</option>
 		<option>Oracle Arena</option>
 		<option>Target Center</option>
@@ -81,7 +81,7 @@
     </question>
     <question id="radio_02">
 		<type>select</type>
-		<title>¿Quien tiene el mayor numero de triples anotados?</title>
+		<title>¿Quién tiene el mayor número de triples anotados?</title>
 		<option>Kobe Bryant 12 Triples</option>
 		<option>Stephen Curry 13 Triples</option>
 		<option>Ray Allen 20 triples</option>
