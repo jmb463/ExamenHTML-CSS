@@ -38,19 +38,27 @@ body{
 
 #checkbox_01, #radio_01{
 	width: 350px;
-	background-color: green
+	color: white;
+
 }
 
-#checkbox_02, #radio_02{
+#checkbox_02{
 	width: 350px;
-	background-color: blue;
+	color: white;
+} 
+
+#radio_02{
+	width: 450px;
+	color: white;
+	font-size: 30px;
 }
 
 #corregir{
-	width: 100px;
-	background-color: white;
+	width: 125px;
 	color: black;
+	background-color: #FFFFFF;
 	border-style: solid;
+	margin-left: 70px;
 }
 
 a:link  
