@@ -1,20 +1,14 @@
 {
     "question": [
       {
-        "-id": "text_01",
-        "type": "text",
         "title": "¿Qué número llevaba Michael Jordan? ",
         "answer": "23"
       },
       {
-        "-id": "text_02",
-        "type": "text",
         "title": "¿Cuántos anillos de la NBA tienen los Boston Celtics?",
         "answer": "17"
       },
       {
-        "-id": "select_01",
-        "type": "select",
         "title": "¿Qué jugador ha anotado más puntos durante su carrera?
 		",
         "option": [
@@ -26,8 +20,6 @@
         "answer": "2"
       },
       {
-        "-id": "select_02",
-        "type": "select",
         "title": "¿Qué entrenador ha conseguido más victorias?",
         "option": [
           "Gregg Popovich",
