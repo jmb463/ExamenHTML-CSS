@@ -1,1 +1,121 @@
-
+{
+    "question": [
+      {
+        "-id": "text_01",
+        "type": "text",
+        "title": "¿Qué número llevaba Michael Jordan? ",
+        "answer": "23"
+      },
+      {
+        "-id": "text_02",
+        "type": "text",
+        "title": "¿Cuántos anillos de la NBA tienen los Boston Celtics?",
+        "answer": "17"
+      },
+      {
+        "-id": "select_01",
+        "type": "select",
+        "title": "¿Qué jugador ha anotado más puntos durante su carrera?
+		",
+        "option": [
+          "LeBron James",
+          "Michael Jordan",
+          "Kareem Abdul-Jabbar",
+          "Kobe Bryant"
+        ],
+        "answer": "2"
+      },
+      {
+        "-id": "select_02",
+        "type": "select",
+        "title": "¿Qué entrenador ha conseguido más victorias?",
+        "option": [
+          "Gregg Popovich",
+          "Larry Bird",
+          "Erik Spoelstra"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "selectMultiple_01",
+        "type": "selectMultiple",
+        "title": "¿Qué equipos no poseen ningún anillo?*",
+        "option": [
+          "Dallas Mavericks",
+          "Minnesota Timberwolves",
+          "Utah Jazz"
+        ],
+        "answer": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "-id": "selectMultiple_02",
+        "type": "selectMultiple",
+        "title": "¿Que jugadores no juegan en la seleccion de Estados Unidos?*",
+        "option": [
+          "Karl Anthony-Towns",
+          "Ben Simmons",
+          "Dwyane Wade",
+          "LeBron James"
+        ],
+        "answer": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "-id": "checkbox_01",
+        "type": "checkbox",
+        "title": "Marca el equipo que no existe actualmente.",
+        "option": [
+          "Los Angeles Clippers",
+          "Minnesota Timberwolves",
+          "Vancouver Grizzlies",
+          "Seattle Supersonics"
+        ],
+        "answer": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "-id": "checkbox_02",
+        "type": "checkbox",
+        "title": "¿En que dos equipos ha jugado Michael Jordan?",
+        "option": [
+          "Chicago Bulls",
+          "Los Angeles Lakers",
+          "Washington Wizards",
+          "Charlotte Bobcats"
+        ],
+        "answer": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "-id": "radio_01",
+        "type": "radio",
+        "title": "¿Cúal es el pabellón de los Miami Heat?",
+        "option": [
+          "American Airlines Arena",
+          "Oracle Arena",
+          "Target Center"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "radio_02",
+        "type": "select",
+        "title": "¿Quién tiene el mayor número de triples anotados?",
+        "option": [
+          "Kobe Bryant 12 Triples",
+          "Stephen Curry 13 Triples",
+          "Ray Allen 20 triples"
+        ],
+        "answer": "1"
+      }
+    ]
+}
