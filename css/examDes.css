@@ -36,22 +36,6 @@ body{
     color: #FFFFFF;
 }
 
-#checkbox_01, #radio_01{
-	width: 350px;
-	color: white;
-
-}
-
-#checkbox_02{
-	width: 350px;
-	color: white;
-} 
-
-#radio_02{
-	width: 450px;
-	color: white;
-	font-size: 30px;
-}
 
 #corregir{
 	width: 125px;
@@ -59,13 +43,32 @@ body{
 	background-color: #FFFFFF;
 	border-style: solid;
 	margin-left: 70px;
+	text-align: center;
 }
 
-a:link  
-{  
- text-decoration:none;
-} 
+#corregir:hover{
+	background-color: grey;
+}
+
+#textArea{
+	height: 50px;
+	width: 200px;
+	text-align: center;
+}
+
+#select{
+	width: 200px;
+	height: 50px;
+}
+
+#selectMultiple{
+	width: 200px;
+	height: 50px;
+}
+
+
 a {color:#FFFFFF;} 
 a:visited {color:#FFFFFF;} 
 a:active {color:#FFFFFF;} 
 a:hover {color: #848484;}
+a:link{text-decoration:none;} 
