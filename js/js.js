@@ -35,3 +35,4 @@ function gestionarXml(dadesXml){
     	select.options.add(option);
     }
   }
+}
