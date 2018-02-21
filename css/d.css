@@ -38,11 +38,8 @@ body,html{
 
 }
 
-a:link  
-{  
- text-decoration:none;
-} 
-a {color:#FF1493;} 
+a:link{text-decoration:none;}
+a:{color:#FFFFFF}
 a:visited {color:#FFFFFF;} 
 a:active {color:#FFFFFF;} 
 a:hover {color: #848484;}
