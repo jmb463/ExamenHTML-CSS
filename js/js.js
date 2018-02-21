@@ -1,5 +1,5 @@
 // fichero xml que está en el servidor rawgit
-var url="https://cdn.rawgit.com/jmb463/ExamenHTML-CSS/aaf22c90/xml/Preguntas.XML";
+var url="xml/Preguntas.XML";
 
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
