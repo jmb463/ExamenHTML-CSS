@@ -80,7 +80,7 @@
 		<answer>0</answer> 
     </question>
     <question id="radio_02">
-		<type>select</type>
+		<type>radio</type>
 		<title>¿Qué jugador ha anotado más triples en un partido?</title>
 		<option>Kobe Bryant 12 Triples</option>
 		<option>Stephen Curry 13 Triples</option>
