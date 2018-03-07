@@ -14,6 +14,7 @@ window.onload = function(){
   //Definicion de eventos
   document.getElementById("inicio").onclick = function(){inicio();}
   document.getElementById("inf").onclick = function(){inf();};
+  document.getElementById("form").onclick = function(){form();};
 
   formElement = document.getElementById("formulario");
   formElement.onsubmit = function(){
@@ -44,10 +45,18 @@ window.onload = function(){
   function inicio(){
     document.getElementById("texto").style.display="inline-block";
     document.getElementById("informacion").style.display="none";
+    document.getElementById("formulario").style.display="none";
   }
   function inf(){
     document.getElementById("texto").style.display="none";
     document.getElementById("informacion").style.display="inline-block";
+    document.getElementById("formulario").style.display="none";
+  }
+  function form(){
+    document.getElementById("texto").style.display="none";
+    document.getElementById("informacion").style.display="none";
+    document.getElementById("formulario").style.display="inline-block";
+
   }
 
   function refrescar(){
