@@ -1,10 +1,10 @@
 # Fase final del Examen Autocorregido
 
-Rawgit link: ....
+Rawgit link: https://cdn.rawgit.com/jmb463/ExamenHTML-CSS/c88eb64c/Inicio.html
 
 Este examen esta realizado a través de un formulario en HTML, añadiendo formato con CSS y Eventos con JS.
 Cogemos de un fichero XML las preguntas y respuestas, la cual parsearemos con Java Script para trabajar con ellas.
-También comprobaremos el fichero XML con un fichero DTD y un fichero XSD. Y incluiremos un archivo JSON.
+También comprobaremos el fichero XML con un fichero DTD y un fichero XSD. E incluiremos un archivo JSON.
 
 Este examen trata el tema de la NBA, la liga de baloncesto de Estados Unidos donde se encuentran los mejores jugadores del mundo, encontraremos preguntas generales sobre jugadores y sobre algun equipo, es un examen fácil si se tiene conocimiento sobre esta liga, 
 
