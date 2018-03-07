@@ -41,6 +41,23 @@ body,html{
 
 }
 
+#informacion{
+	position: relative;
+	display: inline-block;
+	margin-left: 0px;
+	margin-bottom: -50px;
+	text-align: center;
+	font-family: comic;
+	font-size: 250%;
+	width: 407px;
+	height: 200px;
+	bottom: -150px;
+	color: white;
+	display: none;
+
+}
+
+
 a:link  
 {  
  text-decoration:none;
