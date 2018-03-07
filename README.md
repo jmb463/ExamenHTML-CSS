@@ -12,6 +12,6 @@ Este examen trata el tema de la NBA, la liga de baloncesto de Estados Unidos don
 
 Contenido:
 - Contiene una página de inicio simple que nos permitirá navergar por las distintas opciones que nos ofrece esta página.
-- Contiene una sección de instrucciones, que nos proporciona una pequeña ayuda antes de empezar el examen y quien ha hecho la página.
-- Contiene una pestaña de Examen donde encontraremos diferentes tipos de preguntas: TextArea, Select, Select Múltiple, Checkbox y Radio y al contestar las preguntas (que optiene del fichero XML) corrige las respuestas del usuario y muestra la nota.
+- Contiene una sección de instrucciones, que nos proporciona una pequeña ayuda antes de empezar el examen y una pequeña información sobre quien ha hecho la página.
+- Contiene una pestaña de examen donde encontraremos diferentes tipos de preguntas: TextArea, Select, Select Múltiple, Checkbox y Radio, al contestar las preguntas (que optiene del fichero XML) corrige las respuestas del usuario y muestra la nota, si el usuario ha superado la nota establecida, aparecerá un mensaje en pantalla mediante un alert, si no supera esta nota la página mostrará otro mensaje.
 
