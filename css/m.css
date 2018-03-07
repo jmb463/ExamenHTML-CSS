@@ -11,57 +11,60 @@ body,html{
 	top: 0px;
 	background: url(../img/fondo.jpg) no-repeat center center fixed;
 	background-size: cover;
+	background-position: 0% 50%;
 	z-index: -2;
 }
 
 #logo{
 	position: relative;
-	margin-left: 50%;
+	margin-left: 50px;
 	background-image: url(../img/logo.png);
-	background-size: 76%;
+	background-size: 58%;
 	background-repeat: no-repeat;
-	background-position: 50% 50%;
-	height: 400px;
+	background-position: 50% 100%;
+	height: 307px;
 	width: 320px;
+	bottom: -50px;
 }
 
 #texto{
 	position: relative;
 	display: inline-block;
-	margin-left: 50%;
+	margin-left: 0px;
 	margin-bottom: -50px;
 	text-align: center;
 	font-family: comic;
-	font-size: 450%;
-	width: 200px;
+	font-size: 250%;
+	width: 407px;
 	height: 200px;
+	bottom: -150px;
 	color: white;
-	cursor: pointer;
 
 }
-
 
 #informacion{
 	position: relative;
 	display: inline-block;
-	margin-left: 50%;
+	margin-left: 0px;
 	margin-bottom: -50px;
 	text-align: center;
 	font-family: comic;
-	font-size: 168%;
-	width: 403px;
+	font-size: 250%;
+	width: 362px;
 	height: 200px;
+	bottom: -150px;
 	color: white;
 	display: none;
-}
 
+}
 #formulario{
 	position: relative;
-    font-size: 25px;
+    font-size: 20px;
     font-family: cursive;
-    width: 461px;
+    width: 50%;
     float: right;
-    margin-right: 200px;
+    margin-top: 100px;
+    margin-right: 15%;
     color: #FFFFFF;
     display: none;
 }
