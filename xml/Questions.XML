@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!--DOCTYPE questions-->
-
 <questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ValidarXML.xsd">
 	
-    <question id="text_01">
+    <question>
 		<type>text</type>
 		<title>¿Qué número llevaba Michael Jordan? </title>
 		<answer>23</answer>
     </question>
-    <question id="text_02">
+    <question>
     	<type>text</type>
     	<title>¿Cuántos anillos de la NBA tienen los Boston Celtics?</title>
     	<answer>17</answer>
     </question>
-   <question id="select_01">
+   <question>
 		<type>select</type>
 		<title>¿Qué jugador ha anotado más puntos durante su carrera?
 		</title>
@@ -24,7 +21,7 @@
 	    <option>Kobe Bryant</option>
 		<answer>2</answer>
     </question>
-    <question id="select_02">
+    <question>
 		<type>select</type>
 		<title>¿Qué entrenador ha conseguido más victorias?</title>
 		<option>Gregg Popovich</option>
@@ -32,7 +29,7 @@
 		<option>Erik Spoelstra</option>
 		<answer>0</answer>
     </question>
-    <question id="selectMultiple_01">
+    <question>
 		<type>selectMultiple</type>
 		<title>¿Qué equipos no poseen ningún anillo?*</title>
 		<option>Dallas Mavericks</option>
@@ -41,7 +38,7 @@
 		<answer>1</answer>
 		<answer>2</answer> 
     </question>
-    <question id="selectMultiple_02">
+    <question>
 		<type>selectMultiple</type>
 		<title>¿Que jugadores no juegan en la seleccion de Estados Unidos?*</title>
 		<option>Karl Anthony-Towns</option>
@@ -51,7 +48,7 @@
 		<answer>0</answer>
 		<answer>1</answer>
     </question>
-    <question id="checkbox_01">
+    <question>
 		<type>checkbox</type>
 		<title>Marca el equipo que no existe actualmente.</title>
 		<option>Los Angeles Clippers</option>
@@ -61,7 +58,7 @@
 		<answer>2</answer>
 		<answer>3</answer>
     </question>
-    <question id="checkbox_02">
+    <question>
 		<type>checkbox</type>
 		<title>¿En que dos equipos ha jugado Michael Jordan?</title>
 		<option>Chicago Bulls</option>
@@ -71,7 +68,7 @@
 		<answer>0</answer>
 		<answer>2</answer>
     </question>
-    <question id="radio_01">
+    <question>
 		<type>radio</type>
 		<title>¿Cúal es el pabellón de los Miami Heat?</title>
 		<option>American Airlines Arena</option>
@@ -79,7 +76,7 @@
 		<option>Target Center</option>
 		<answer>0</answer> 
     </question>
-    <question id="radio_02">
+    <question>
 		<type>radio</type>
 		<title>¿Qué jugador ha anotado más triples en un partido?</title>
 		<option>Kobe Bryant 12 Triples</option>
