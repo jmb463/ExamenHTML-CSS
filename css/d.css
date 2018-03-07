@@ -35,8 +35,26 @@ body,html{
 	font-size: 450%;
 	width: 200px;
 	height: 200px;
+	color: white;
+	cursor: pointer;
 
 }
+
+
+#informacion{
+	position: relative;
+	display: inline-block;
+	margin-left: 50%;
+	margin-bottom: -50px;
+	text-align: center;
+	font-family: comic;
+	font-size: 168%;
+	width: 403px;
+	height: 200px;
+	color: white;
+	display: none;
+}
+
 
 a:link{text-decoration:none;}
 a:{color:#FFFFFF}
