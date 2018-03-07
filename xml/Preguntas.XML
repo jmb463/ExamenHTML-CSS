@@ -10,9 +10,9 @@
 		<answer>23</answer>
     </question>
     <question id="text_02">
-    	<type>text</type>
-    	<title>¿Cuántos anillos de la NBA tienen los Boston Celtics?</title>
-    	<answer>17</answer>
+    		<type>text</type>
+    		<title>¿Cuántos anillos de la NBA tienen los Boston Celtics?</title>
+    		<answer>17</answer>
     </question>
    <question id="select_01">
 		<type>select</type>
@@ -21,7 +21,7 @@
 		<option>LeBron James</option>
 		<option>Michael Jordan</option>
 		<option>Kareem Abdul-Jabbar</option>
-	    <option>Kobe Bryant</option>
+	    	<option>Kobe Bryant</option>
 		<answer>2</answer>
     </question>
     <question id="select_02">
