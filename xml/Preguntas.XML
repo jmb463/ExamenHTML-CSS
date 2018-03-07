@@ -53,7 +53,7 @@
     </question>
     <question id="checkbox_01">
 		<type>checkbox</type>
-		<title>Marca el equipo que no existe actualmente.</title>
+		<title>Marca el equipo que no existe actualmente.*</title>
 		<option>Los Angeles Clippers</option>
 		<option>Minnesota Timberwolves</option>
 		<option>Vancouver Grizzlies</option>
@@ -63,7 +63,7 @@
     </question>
     <question id="checkbox_02">
 		<type>checkbox</type>
-		<title>¿En que dos equipos ha jugado Michael Jordan?</title>
+		<title>¿En que dos equipos ha jugado Michael Jordan?*</title>
 		<option>Chicago Bulls</option>
 		<option>Los Angeles Lakers</option>
 		<option>Washington Wizards</option>
